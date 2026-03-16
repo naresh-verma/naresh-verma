@@ -10,13 +10,17 @@ I also worked on different projects related to ecommerce and web applications fo
 
   <img align="right" alt="GIF" src="https://github.com/naresh-verma/profile/blob/master/developer.gif?raw=true" width="500" height="320" />
 
-My work Related to Bagisto[Here](https://github.com/naresh-wekul).
+My work Related to Bagisto[Here](https://github.com/naresh-webkul).
 
 - 💬 ask me about anything, I'll be happy to help;
 - 💬 any query related to bagisto GraphQL,REST,B2C ,B2B marketplace,SaaS, Shipping addon, payment module etc.
 - 💬 any query related to React Js project and API integration.
-**languages and tools:**  
 
+**languages and tools:**  
+<br/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
